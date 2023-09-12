@@ -4,4 +4,6 @@ background-color: rgb(68, 167, 253);
 
 h1 {
     color: bisque;
+    font-size: 50px;
+    text-align: center;
 }
