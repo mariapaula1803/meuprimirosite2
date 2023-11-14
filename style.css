@@ -83,4 +83,6 @@ color: blue;
 font-size: 30px;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 text-transform: uppercase;
+border-radius: 15px;
+padding-top: 2%;
 }
