@@ -78,6 +78,6 @@ border: 1px solid #cccccc;
 width: 15%;
 height: 290px;
 justify-content: center;
-align-items: center;
+align-items:flex-start;
 color: blue;
 }
